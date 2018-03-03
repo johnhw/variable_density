@@ -21,12 +21,12 @@ Simply pass a function returning the number of points per unit area at a given p
 
 ## Demos
 
-See [VariableDensity.ipynb] for some basic tests of the uniformity of the layout. 
+See [VariableDensity.ipynb](VariableDensity.ipynb) for some basic tests of the uniformity of the layout. 
 
-<img src="imgs/voronoi.png" width="50%">
+<img src="imgs/voronoi.png" width="100%">
 
 
-See [PyrRetina.ipynb] for an application in building a simple foveated (retinal) transform for imaging purposes using the layout algorithm.
+See [PyrRetina.ipynb](PyrRetina.ipynb) for an application in building a simple foveated (retinal) transform for imaging purposes using the layout algorithm.
 
 <img src="imgs/foveated.png" width="50%">
 
